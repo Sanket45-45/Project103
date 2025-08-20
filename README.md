@@ -1,4 +1,4 @@
 # Project103
-this is our first project
+This is my First Project from Bsc(ECS) 3rd Year
 <br>
 Author Name: Md Saad Kaladgi
